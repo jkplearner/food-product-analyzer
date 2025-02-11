@@ -19,15 +19,16 @@ NutriScope is a full-stack MERN application designed to analyze food products fo
 
 ### Installation
 
-1. Clone the repository:
+1. Create a react app 
    ```bash
-   git clone <repository-url>
+   npx create-react-app nutriscope
    ```
 2. Navigate to the project directory:
    ```bash
    cd NutriScope
    ```
-3. Install dependencies:
+3. Swap the files in the repository to the files in the newly created project
+4. Install dependencies:
    ```bash
    npm install
    ```
